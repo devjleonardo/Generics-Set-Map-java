@@ -1,0 +1,1 @@
+![image](https://raw.githubusercontent.com/devjleonardo/assets/main/Generics-Set-Map-java/04_Curingas%20delimitados/Problema%201.png)

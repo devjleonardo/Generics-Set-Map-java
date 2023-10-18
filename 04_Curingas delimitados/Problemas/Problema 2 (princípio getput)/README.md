@@ -1,0 +1,4 @@
+![image](https://raw.githubusercontent.com/devjleonardo/assets/main/Generics-Set-Map-java/04_Curingas%20delimitados/Problema%202%20(princ%C3%ADpio%20get%20e%20put).png)
+![image](https://raw.githubusercontent.com/devjleonardo/assets/main/Generics-Set-Map-java/04_Curingas%20delimitados/Java%20wrapper%20types.png)
+![image](https://raw.githubusercontent.com/devjleonardo/assets/main/Generics-Set-Map-java/04_Curingas%20delimitados/Princ%C3%ADpio%20get%20e%20put%20-%20covari%C3%A2ncia.png)
+![image](https://raw.githubusercontent.com/devjleonardo/assets/main/Generics-Set-Map-java/04_Curingas%20delimitados/Princ%C3%ADpio%20get%20e%20put%20-%20contravari%C3%A2ncia.png)
